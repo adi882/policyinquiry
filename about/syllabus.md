@@ -1,12 +1,12 @@
 ![](../images/header.jpg)
 
-![](../images/UBC_CS.png)
+![](../images/vtech_pa.png)
 
 # Course Syllabus (Official)
 
-Below is the official UBC-mandated Course Syllabus for {{ COURSE_CODE }}.
+Below is the Course Syllabus for {{ PAPA 6514 }}.
 Elements of this document are **fixed** and unchanging.
-Additional details about the course are available on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+Additional details about the course are available on the {{ '[course website]({link})'.format(link=https://)}}.
 
 ## Land Acknowledgement
 
@@ -40,7 +40,7 @@ More details about the course can be found on the {{ '[course website]({link})'.
 
 ## Schedule of Topics
 
-The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}. 
+The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=https://)}}. 
 
 ```{include} syllabus_bits/schedule.md
 ```
@@ -56,7 +56,7 @@ For information on this, see the {{ '[course website]({link})'.format(link=COURS
 ## Learning Materials
 
 There is no requirement to purchase textbooks or any other materials for this course.
-Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=https://)}}.
 
 ## Assessments of Learning
 
@@ -73,7 +73,7 @@ Resources and materials for this course can be found on the {{ '[course website]
 Due dates in this course have a generous no-penalty {{ GRACE_PERIOD }} grace period so late submissions are not generally accepted.
 Missed Tests and Exams will be given a score of 0 unless prior arrangements are made with the course instructor.
 To contact the instructor for this course, use {{ FORUM_LINK }}.
-Details on due dates and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+Details on due dates and other course policies can be found on the {{ '[course website]({link})'.format(link=https://)}}.
 
 ## Learning Analytics
 
