@@ -1,6 +1,6 @@
 # Book settings
-title: Physics 111 
-author: Firas Moosvi
+title: Public Administration and Policy Inquiry
+author: Aditya Sai Phutane
 logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
@@ -19,7 +19,7 @@ html:
   use_edit_page_button: true
   navbar_number_sections : false
   announcement: "Use this JupyterBook as a <a href='https://github.com/firasm/jupyterbook_course_template' style='color:pink;'>template by clicking here</a>!"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
+  google_analytics_id: UA-325589502 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
     utterances:
@@ -60,40 +60,66 @@ sphinx:
 
     myst_substitutions:
       # Instructor information
-      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
-      PRONOUNCE: "Fur-az Moose-vee"
-      OFFICE: "ROOM 111"
+      INSTRUCTOR: "ABC"
+      # PRONOUNCE: ""
+      OFFICE: "ROOM xyz"
       PHONE: "N/A"
 
       # Course Information
-      COURSE_CODE: "PHYS 111"
+      COURSE_CODE: "Public Administration and Policy Inquiry"
       SECTION: "001"
       CREDITS: "3"
-      TITLE: "Introductory Physics for the Physical Sciences I"
-      PREREQS: "One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11 (Physics 12 is strongly recommended)."
-      COREQS: "Math 100"
-      TERM: "2023 Winter Term 2"
-      ROOM: "ROOM 100"
+      TITLE: "Quantitative Methods in Public Administration and Policy"
+      PREREQS: "Senior Secondary or Higher Secondary Math, High school Social Science and Basic Statistics (Class 11/12th Math is strongly recommended)."
+      COREQS: "Math and Social Science"
+      TERM: "202x Fall Term 1"
+      ROOM: "ROOM xxx, Bldg xxx"
       MEETING_TIMES: "Monday, Wednesday, Friday from 1-2 PM"
       # FORMAT: "Lectures, Labs, Tutorials will all be running in-person."
 
       # Important Links
-      CANVAS_ID: "63995"
-      CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
-      ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
-      ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
-      FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/fgh45hfgh)"
-      TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website and linked materials."
-      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cosc123&term=2022_WT1)"
-      ASSOCIATE_HEAD: "Associate Head [associate.head@fakeemail.ca](mailto:associate.head@fakeemail.ca)"
-      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/xxxxxxxxxx)"
+      # CANVAS_ID: "63995"
+      # CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID"
+      ZOOM_LINK: "[Zoom](https://zoom.in/j/1234567890)"
+      #ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
+      # COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
+      # FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/fgh45hfgh)"
+      TEXTBOOK: "The following core course textbooks will be required and other course materials will be made available via the course website and linked materials:
+              Mandatory Books:
+                Research Methodology:
+                - 'Creswell & Creswell, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches 5th edition (Sage, 2018)'
+                - 'Hans Raj 1984. Theory & Practice in Social Research, New Delhi, Surjeet Publisher.'
+                - 'Goertz, Gary. Social science concepts: A users guide. Princeton University Press, 2006'
+                - 'Van Evera, Stephen. Guide to methods for students of political science. Cornell University Press, 1997.'
+                - 'King, Gary, Robert O. Keohane, and Sidney Verba. Designing social inquiry: Scientific inference in qualitative research. Princeton university press, 2021.'
+                Optional:
+                  - 'Luker, Salsa Dancing into the Social Sciences: Research in an Age of Info-Glut (Harvard, 2008)'
+                  - 'Schwartz-Shea, Peregrine, and Dvora Yanow. Interpretive research design: Concepts and processes. Routledge, 2013.'
+
+                Statistical Analysis (Theory and Practice: 
+                - 'Meier, Kenneth J., Jeffrey L. Brudney, and John Bohte. 2015. Applied Statistics for Public and Nonprofit Administration, 9th Edition. Stamford, CT: Cengage Learning.' 
+                - 'Diez, David, Mine Cetinkaya-Rundel, and Christopher Barr. 2019. OpenIntro Statistics, 4th Edition (https://www.openintro.org/stat/textbook.php) This is an open source, optional contribution textbook.'
+                - 'Acock. 2018. A Gentle Introduction to Stata, 6th Edition. College Station, TX: Stata Press'
+                  Optional:
+                    - 'Martin, Thinking Through Statistics (University of Chicago, 2018)'
+                    - 'Gonick, Larry, and Woollcott Smith. 2015. The Cartoon Guide to Statistics. William Morrow.'
+                    - 'Stigler, S. M. (2016). The seven pillars of statistical wisdom. Harvard University Press.'
+                    
+                Presenting and working with Data:
+                - 'Knaflic, Cole Nussbaumer. Storytelling with data: A data visualization guide for business professionals. John Wiley & Sons, 2015.'
+                - 'Knaflic, Cole Nussbaumer. Storytelling with you: Plan, create, and deliver a stellar presentation. John Wiley & Sons, 2022.'
+                - 'Stone, Deborah. Counting: How we use numbers to decide what matters. Liveright Publishing, 2020.'
+              
+                "
+      ANON_FEEDBACK: "[feedback form](https://univ.qualtrics.com/?course=pa1&term=202x_WT1)"
+      ASSOCIATE_HEAD: "Associate Head [associate.head@email.in](mailto:associate.head@email.in)"
+      # ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/xxxxxxxxxx)"
 
       # Withdrawal Dates and Exam Period
-      W_DATE_1: "11:59 PDT on January 22, 2024"
-      W_DATE_2: "11:59 PDT on March 26, 2024"
-      W_DATE_3: "11:59 PDT on March 26, 2024"
-      EXAM_PERIOD: "Friday December 10th - Wednesday, December 22"
+      W_DATE_1: "11:59 IST on Sept 22nd, 202x"
+      W_DATE_2: "11:59 IST on Oct 3rd, 202x"
+      W_DATE_3: "11:59 IST on Dec 1st, 202x"
+      EXAM_PERIOD: "Monday December 3rd, 202x 10:00 AM IST"
 
       # Course Policies
-      GRACE_PERIOD: "48 hour"
+      GRACE_PERIOD: "24 hour"
