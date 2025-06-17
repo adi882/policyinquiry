@@ -1,36 +1,34 @@
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-| Wk | Date   | Topic                             | Homework   | Read before Class | Learning              |
-|----|--------|-----------------------------------|------------|-------------|--------------------------------|
-| 0  | Class 1 - Aug 27 | Introduction to course    |  | KKV Ch 1, C&C Ch1-2   | Research Approaches and Methodologies in Social Sciences |
-| 0  | Class 2 | Exploring Data and Research Questions  |        | OpenIntro Ch 1, MBB Ch 1 | Data and Topics in Public Administration and Policy              |
-| 1  | Class 3 | Research Design - Measurement, Sampling and Relatonship between Variables  | | C&C Ch 3,  | Understand Validity and Reliability issues in real life data, Applying theory to data  |
-| 1  | Class 4  | Descriptive Statistics and Using Data to Persuade an argument     | HW 1: Data Visualization:        | MBB Ch 4-6 | Compelling visualizations of data |
-| 2  | Class 5 | Force and Motion                  | HW X       | Lab X | LL X | Test 2: Chapters 4 & 5         |
-| 2  | Class 6 | Reading Week (no new material)    | -          | -     | -    | -                              |
-| 3  | Class 7 | Dynamics I: Motion along a line   | HW X       | Lab X | LL X | Bonus Test 2                   |
-| 3  | Class 8 | Newton's third law                | HW X       | Lab X | LL X | Test 3: Chapters 6 & 7         |
-| 4  | Class 9  | Dynamics II: Motion in a Plane    | HW X       | Lab X | LL X | Bonus Test 3                   |
-| 4  | Class 10 | Work and Kinetic Energy           | HW X       | Lab X | LL X | Test 4: Chapters 8 & 9         |
-| 5 | Class 11 | Interactions and Potential Energy | HW X       | Lab X | LL X | Bonus Test 4                   |
-| 5 | Class 12 | Impulse and momentum              | HW X       | Lab X | LL X | Test 5: Chapters 10 & 11       |
-| 6 | Class 13  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 6 | Class 14  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 7 | Class 15  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 7 | Class 16  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 8 | Class 17  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 8 | Class 18  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 9 | Class 19  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 9 | Class 20  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 10 | Class 21  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 10 | Class 22  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 11 | Class 23  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 11 | Class 24  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 12 | Class 25  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 12 | Class 26  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 13 | Class 27  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 13 | Class 28  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 14 | Class 29  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 14 | Class 30  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
-| 15 | Class 31  | Review and recap                  | Practice   | Lab X | LL X | Diagnostic (Post) Bonus Test 5 |
+| Wk | Class | Date   | Topic (Theory / Stata)                                      | Homework                | Read before Class                                 | Learning Outcome                                                      |
+|----|-------|--------|-------------------------------------------------------------|-------------------------|---------------------------------------------------|-----------------------------------------------------------------------|
+| 1  | 1     |        | Introduction to Research in Public Administration and Policy |                         | C&C Ch 1; KKV Ch 1                                | Understand the scope of research in public admin; intro to Stata      |
+| 1  | 2     |        | Introduction to Stata and Course Data Sets                   |                         | Acock Ch 1                                        | Familiarize with Stata environment and course datasets                |
+| 2  | 3     |        | Research Questions, Concepts, and Literature Reviews         |                         | C&C Ch 2; Goertz Ch 1                             | Formulate research questions; conduct basic literature reviews        |
+| 2  | 4     |        | Data Management & Cleaning in Stata                          | HW 1: Data Cleaning     | Acock Ch 2                                        | Perform data cleaning in Stata                                        |
+| 3  | 5     |        | Theory Building and Research Design                         |                         | C&C Ch 3; KKV Ch 2                                | Develop research designs and theoretical frameworks                   |
+| 3  | 6     |        | Descriptive Statistics in Stata                              | HW 2: Descriptive Stats | MBB Ch 2; OpenIntro Ch 1                          | Summarize and describe data using Stata                               |
+| 4  | 7     |        | Measurement, Validity, and Reliability                       |                         | C&C Ch 4; Hans Raj Ch 2                           | Assess measurement quality and reliability                            |
+| 4  | 8     |        | Visualizing Data in Stata                                    | HW 3: Data Visualization| OpenIntro Ch 2                                    | Create and interpret basic data visualizations in Stata               |
+| 5  | 9     |        | Sampling and Case Selection                                  |                         | C&C Ch 5; KKV Ch 4                                | Understand sampling techniques and case selection                     |
+| 5  | 10    |        | Sampling Methods in Stata                                    |                         | MBB Ch 3                                          | Generate and analyze samples in Stata                                 |
+| 6  | 11    |        | Qualitative, Quantitative, and Mixed Methods                 |                         | C&C Ch 6; SPY Ch 1 (optional)                     | Compare methodological approaches                                     |
+| 6  | 12    |        | Inferential Statistics in Stata                              | HW 4: Confidence Intervals| OpenIntro Ch 3                                   | Compute and interpret confidence intervals in Stata                   |
+| 7  | 13    |        | Hypothesis Testing and Causality                             |                         | MBB Ch 4; KKV Ch 5                                | Understand hypothesis testing and causality                           |
+| 7  | 14    |        | Hypothesis Tests in Stata (t-tests, chi-square)              | HW 5: Hypothesis Tests  | OpenIntro Ch 4                                    | Conduct and interpret hypothesis tests in Stata                       |
+| 8  | 15    |        | Midterm Review & Project Check-in                            |                         | Review Key Chapters                               | Integrate and apply concepts from first half of course                |
+| 8  | 16    |        | Midterm Exam (Theory & Stata Application)                    |                         |                                                   | Demonstrate understanding of theory and Stata application             |
+| 9  | 17    |        | Bivariate Relationships and Correlation                      |                         | MBB Ch 5; OpenIntro Ch 5                          | Analyze and interpret relationships between two variables             |
+| 9  | 18    |        | Correlation Analysis in Stata                                | HW 6: Correlation       |                                                   | Perform and interpret correlation analysis in Stata                   |
+| 10 | 19    |        | Introduction to Regression Analysis                          |                         | MBB Ch 6; C&C Ch 7                                | Understand basics of regression modeling                              |
+| 10 | 20    |        | Simple Linear Regression in Stata                            | HW 7: Simple Regression |                                                   | Estimate and interpret simple regression models in Stata              |
+| 11 | 21    |        | Multivariate Regression and Model Specification               |                         | MBB Ch 7; KKV Ch 6                                | Build and assess multivariate regression models                       |
+| 11 | 22    |        | Multiple Regression in Stata                                 | HW 8: Multiple Regression|                                                   | Conduct and interpret multiple regression in Stata                    |
+| 12 | 23    |        | Communicating Results: Policy Briefs & Presentations         |                         | Knaflic Ch 1-2                                    | Present and visualize data effectively for policy audiences           |
+| 12 | 24    |        | Data Visualization for Policymakers in Stata                 | HW 9: Policy Visualization|                                                  | Create advanced data visualizations for policy communication          |
+| 13 | 25    |        | Triangulation and Mixed Methods Integration                  |                         | C&C Ch 8; Case Studies                            | Integrate qualitative and quantitative evidence                       |
+| 13 | 26    |        | Integrating Qualitative and Quantitative Data in Stata       |                         |                                                   | Merge and analyze mixed methods data in Stata                         |
+| 14 | 27    |        | Final Project Presentations & Course Wrap-Up                 | Final Project Due       | Review All                                        | Synthesize course learning and communicate findings                   |
+| 14 | 28    |        | Final Exam / Project Submission (Theory & Stata Analysis)    |                         |                                                   | Demonstrate mastery of course content and analytical skills           |
+
